@@ -1,0 +1,25 @@
+KNN (K Nearest Neighbour)
+
+K nearest Neighbour is simple algorithm that 
+stores all the available cases and classifies 
+the new data or case beased on a similarity measure.
+
+In general KNN is used in search application.
+
+K = Number of Nearest Neighbour
+
+
+Uses in industry:
+1> Its mostly used in recomandetion system.
+2> Handwritting recognisation
+3> documents recommadation
+
+It is lazy learner
+
+How choos value of K?
+
+
+
+
+
+
